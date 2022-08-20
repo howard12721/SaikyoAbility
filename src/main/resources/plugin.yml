@@ -1,0 +1,7 @@
+name: UltimatePlugin
+version: '${project.version}'
+main: com.gmail.kobun127.ultimateability.UltimateAbility
+api-version: 1.18
+authors: [ howard127 ]
+description: This is the most strongest ability.
+website: howaky.net
